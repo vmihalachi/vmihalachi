@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm Vlad, a Full-Stack and App developer. Special care for design architectures & code reusability. 
+Firm believer in open source and love to contribute when there is the chance.
 
 I'm a co-founder of [Docode OÜ](https://docode.it/) and work at [Microsoft](https://www.microsoft.com/) as a Software Engineer II.
 
