@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Vlad, a Full-Stack and App developer. Special care for design architectures & code reusability. 
+
+I'm a co-founder of [Docode OÜ](https://docode.it/) and work at [Microsoft](https://www.microsoft.com/) as a Software Engineer II.
+
+Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/vmihalachi/)
+
 <!--
 **vmihalachi/vmihalachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
