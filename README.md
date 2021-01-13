@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-I'm Vlad, a Full-Stack and App developer. Special care for design architectures & code reusability. 
-Firm believer in open source and love to contribute when there is the chance. Also, deeply in love with Maths, Physics and Biology.
+I'm Vlad, a Full-Stack and App developer. Firm believer in open source and love to contribute when there is the chance. Also, deeply in love with Maths, Physics and Biology.
 
 I'm a co-founder of [Docode OÜ](https://docode.it/) and work at [Microsoft](https://www.microsoft.com/) as a Software Engineer II.
 
-Do you know the biggest prime number existing? Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/vmihalachi/) and tell me about it 😎
+Have you found the biggest prime number existing? Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/vmihalachi/) and tell me about it 😎
 
 <!--
 **vmihalachi/vmihalachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
