@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm Vlad, a Full-Stack and App developer. Firm believer in open source and always ready to contribute when there is the chance. Also, deeply in love with Maths, Physics and Biology.
+I'm Vlad, a Full-Stack and App developer. Firm believer in open source and always ready to contribute when there is the chance. Also, deeply in love with Maths 🔢, Physics 🔭 and Biology 🌱.
 
-I'm a co-founder of [Docode OÜ](https://docode.it/) and work at [Microsoft](https://www.microsoft.com/) as a Software Engineer II.
+I work at [Microsoft](https://www.microsoft.com/) as a Software Engineer II.
 
 Have you found the biggest prime number existing? Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/vmihalachi/) and tell me about it 😎
 
