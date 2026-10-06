@@ -1,22 +1,20 @@
 ### Hi there 👋
 
-I'm Vlad, a Full-Stack and App developer. Firm believer in open source and always ready to contribute when there is the chance. Also, deeply in love with Maths 🔢, Physics 🔭 and Biology 🌱.
+I’m Vlad, a software engineer working across the stack, from services to apps. Most days that means untangling something until it’s simple enough to explain.
 
-I work at [Microsoft](https://www.microsoft.com/) as a Senior Software Engineer.
+I’m a Senior Software Engineer at Microsoft. I’ve been building software professionally for 9+ years, the last 6+ of them there.
 
-Have you found the biggest prime number existing? Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/vmihalachi/) and tell me about it 😎
+Outside work, I read a lot of open-source code and contribute back when I have something useful to add. It’s the best way I know to see how other people think through problems.
 
-<!--
-**vmihalachi/vmihalachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+My back hurts. So I built an app. https://mybackhurts.app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+#### Want to talk?
+I’m happy to talk about software, open source, or anything we still don’t fully understand.
+
+[hello@vmihalachi.com](mailto:hello@vmihalachi.com)
+
+[Find me on LinkedIn](https://www.linkedin.com/in/vmihalachi/)
