@@ -15,6 +15,8 @@ My back hurts. So I built an app. https://mybackhurts.app
 #### Want to talk?
 I’m happy to talk about software, open source, or anything we still don’t fully understand.
 
+https://vmihalachi.com
+
 [hello@vmihalachi.com](mailto:hello@vmihalachi.com)
 
 [Find me on LinkedIn](https://www.linkedin.com/in/vmihalachi/)
