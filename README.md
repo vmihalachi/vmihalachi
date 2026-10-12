@@ -10,6 +10,8 @@ Outside work, I read a lot of open-source code and contribute back when I have s
 
 My back hurts. So I built an app. https://mybackhurts.app
 
+For fun I've also built a happy sunflower named Sunny https://sunnysays.app, and a sad clown, Mister Pagliacci https://pagliacci.app
+
 ----
 
 #### Want to talk?
